@@ -1,3 +1,4 @@
-# 120 years of Olympic history
+# 120 anos dos Jogos Olímpicos
 
-This repository contains the resolution for a data cleaning and analysis case from Turing USP (2021). 
+Nesse repositório há a resolução do primeiro case proposto para os Trainees 2021 do Turing USP. 
+Os principais passos consistem na limpeza e análise dos dados.  
